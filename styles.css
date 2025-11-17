@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    direction: rtl;
+    text-align: center;
+    margin-top: 40px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 20px;
+}
